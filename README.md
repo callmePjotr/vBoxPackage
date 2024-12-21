@@ -1,0 +1,1 @@
+- das ganze ist im DOKU Ordner ausführlich dokumentiert
