@@ -24,9 +24,9 @@ Zusammengefasst bietet die Bibliothek folgende Funktionen:
 - Umwandlung von Strings in Hexcodes (siehe smallTest3.py)
 - Verwendung dieser Hexcodes zur Simulation von Tastatureingaben in beliebigen Anwendungen auf der VM (bisher für Firefox getestet)
 
-Beispiele für Images, die mit diesen Funktionen erstellt wurden, befinden sich im unten stehenden Link. Dazu gehört ein vollständig leeres Image sowie ein Image, auf dem die meisten der oben genannten Funktionen getestet wurden.
+Beispiele für Images, die mit diesen Funktionen erstellt wurden, befinden sich im unten stehenden Link. Dazu gehört die verwendete .iso-Datei und ein Image, auf dem die meisten der oben genannten Funktionen getestet wurden.
 
-(Hier den Link einfügen)
+https://mega.nz/folder/YG8VWIYR#kshqqWOQMKY4abddvUXGUg
 
 - The detailed documentation and how to use the functions can be found in the DOKU folder
 
@@ -54,6 +54,6 @@ In summary, the library implements the following functionalities:
 - Conversion of strings into hex codes (see smallTest3.py)
 - Use of these hex codes to simulate keyboard input in any application on the VM (tested with Firefox)
 
-Examples of images created with these functions can be found at the link below. This includes a completely blank image as well as an image on which most of the above scripts have been tested.
+Examples of images created using these functions are in the link below. This includes the .iso file used and an image on which most of the above features have been tested.
 
-(Insert link here)
+https://mega.nz/folder/YG8VWIYR#kshqqWOQMKY4abddvUXGUg
